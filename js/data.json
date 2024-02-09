@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "img": "img/products/product1.png", 
+        "name":"Navel Oranges",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det1.jpeg",
+        "parg": "Navel oranges are a winter cultivar of the species Citrus sinensis. Navel oranges are round to slightly oval and 3 to 4 inches in diameter, with medium to thick rind which is bright orange in color with a slightly pebbly texture. The fruit itself is seedless and made up of 10 to 12 sections of tender, juicy flesh with a sweet, tangy, and tart flavor with low acidity"
+    },
+    {
+            "id": 2,
+            "img": "img/products/product2.png", 
+            "name":"Valencia Oranges",
+            "p": "Fresh Fruits",
+            "imgdet":"img/products/det2.jpeg",
+            "parg": "Valencia oranges are a large variety of orange with a smooth, pebbled surface and aromatic, semi-thick peels. They are famous for their sweet juice and distinctive bright colors, which makes them the best and most popular choice in making orange juice among its peers"
+    },
+    {
+        "id": 3,
+        "img": "img/products/product3.png",
+        "name":"Lemon",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det3.jpeg",
+        "parg": "lemons make up one of the top seven natural sources of potassium a mineral that promotes clear thinking helps normalize blood pressure and works with sodium to regulate the body is water ."
+    },
+
+    {
+        "id": 4,
+        "img": "img/products/product4.png",
+        "name":"red onions",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det4.jpeg",
+        "parg": "Red onions helps in enhancing the levels of red blood cells, as this reflects positively on the health of the heart and the circulatory system as well, and this means that red onions reduce the risk of cardiovascular disease and enhance their various functions"
+    },
+    {
+        "id": 5,
+        "img": "img/products/product5.png",
+        "name":"golden onions",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det5.jpeg",
+        "parg": "Giant/ Golden Onion has warm and sweet aromatic notes, due to the presence of the compound eugenol, and is known for its distinct sweetness and succulent texture"
+    }
+    ,{
+        "id": 6,
+        "img": "img/products/product6.png",
+        "name":"Garlic",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products",
+        "parg": "Garlic: We Grow and export good volumes of Garlic (Fresh & Dry), With Very good Quality."
+    },
+    {
+        "id": 7,
+        "img": "img/products/product7.png",
+        "name":"spunta potatoes",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det7.jpeg",
+        "parg": "Spunta potatoes is an early, high yielding variety with suitable specifications for making potato chips and sticks. This variety produces rough, oval and circular tubers of similar shape, with a yellow skin and a white color on the inside"
+    }
+    ,
+    {
+        "id": 8,
+        "img": "img/products/product8.png",
+        "name":"sweet potato",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det8.jpeg",
+        "parg": "Sweet potato, sugary potato, Indian taro, Damama, Vandal or Hindal (scientific name: Ipomoea batatas) is a dicotyledonous plant under the Mahmoudia family. Its fruit is large, starchy, sweet in taste, and its leaves are sometimes eaten. Its origin is in the tropics of America. It contains nearly 50 genera and more than 1,000 species."
+    }
+    ,
+    {
+        "id": 9,
+        "img": "img/products/product9.png",
+        "name":"carrot",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products",
+        "parg": "Carrots are a vegetable rich in beta-carotene, which is a very powerful antioxidant.<br>It is also rich in vitamin A. This is in addition to the flavonoids available in carrots that protect the skin and lungs."
+    }
+    ,
+    {
+        "id": 10,
+        "img": "img/products/product10.png",
+        "name":"colored capsicum",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det10.jpeg",
+        "parg": "Colored Capsicum: We are supplying our different customers with Colored Capsicum of highest quality all the year round."
+    }
+    ,
+    {
+        "id": 11,
+        "img": "img/products/product11.png",
+        "name":"artichke",
+        "p": "Organic Vegetables",
+        "imgdet":"img/products/det11.jpeg",
+        "parg": "The artichoke is native to the Mediterranean region, a region of the world with one of the lowest rates of chronic disease and one of the highest rates of life expectancy.<br>Mediterranean cuisine features artichokes, which are rich in other vegetables and fruits, and are low in saturated fat."
+    }
+    ,
+    {
+        "id": 12,
+        "img": "img/products/product12.png",
+        "name":" mango",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det12.jpeg",
+        "parg": "Egyptian fresh mangos are in high demand worldwide due to its premium quality, natural sweet flavor and delicious taste"
+    }
+    ,
+    {
+        "id": 13,
+        "img": "img/products/product13.png",
+        "name":"strawberries",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det13.jpeg",
+        "parg": "Strawberries are far more than a fresh and fruity treat on a summer is day, they are a natural source of valuable antioxidants like vitamin C and phenolic compounds that help to protect the skin and body from free radicals"
+    }
+    ,
+    {
+        "id": 14,
+        "img": "img/products/product14.png",
+        "name":"grapes",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det14.jpeg",
+        "parg": "Grapes: Promoting the health of the heart and arteries: grapes contribute to controlling cholesterol levels in the blood, due to the fact that grapes contain polyphenols, which also have anti-inflammatory properties. The vitamin K present in grapes also contributes to reducing blood clotting, which reduces the risk of blood clots."
+    }
+    ,
+    {
+        "id": 15,
+        "img": "img/products/product15.png",
+        "name":"pomegranates",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products",
+        "parg": "Pomegrantes: Improve memory and prevent Alzheimer is. Improving sports performance, because pomegranate contains nitrates that improve blood flow. Preventing anemia and reducing its symptoms, such as fatigue and dizziness, because it contains the iron needed to make healthy red blood cells. Maintaining the freshness of the skin, because it contains vitamin C and antioxidants"
+    }
+    ,
+    {
+        "id": 16,
+        "img": "img/products/product16.png",
+        "name":"cantaloup",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det16.jpeg",
+        "parg": "Cantalopu/ Melon contains potassium, which is useful for regulating the heartbeat, thus increasing the levels of oxygen reaching the brain. - Contains useful water to get rid of toxins and clean the body of waste. Contains vitamin B that is useful in energy production. Melon contains a high percentage of water, which moisturizes the skin and reduces dehydration."
+    }
+    ,
+    {
+        "id": 17,
+        "img": "img/products/product17.png",
+        "name":"peach",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det17.jpeg",
+        "parg": "Peach : prevention of constipation and improvement of bowel movement; This is because one peach contains 2 grams of dietary fiber. Promoting the growth of beneficial bacteria inside the intestine, which improves digestive function. Peach tree flowers have also been known in traditional Chinese medicine to maintain the health and function of the digestive system <br> Peach flower extract is also available in Korea for the same purpose."
+    }
+    ,
+    {
+        "id": 18,
+        "img": "img/products/product18.png",
+        "name":"Guava",
+        "p": "Fresh Fruits",
+        "imgdet":"img/products/det18.jpeg",
+        "parg": "Guava is a fruit rich in potassium, which regulates blood pressure, reduces bad cholesterol, and increases good cholesterol in the body, thus preventing the risk of heart disease. Antioxidants also contribute to preventing oxidative reactions that cause chronic diseases, such as cardiovascular disease."
+    }
+ 
+]
